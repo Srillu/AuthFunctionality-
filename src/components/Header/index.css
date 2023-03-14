@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.header-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-item {
+  margin-right: 10px;
+}
